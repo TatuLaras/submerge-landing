@@ -2,10 +2,10 @@
 const bgImageDOM = document.querySelector('#background-image');
 const mainHeaderDOM = document.querySelector('#main-header');
 const bgImages = [
-    '../landing/langphotos/chinese1.jpg',
-    '../landing/langphotos/chinese2.jpg',
-    '../landing/langphotos/japanese1.jpg',
-    '../landing/langphotos/korean1.jpg',
+    'langphotos/chinese1.jpg',
+    'langphotos/chinese2.jpg',
+    'langphotos/japanese1.jpg',
+    'langphotos/korean1.jpg',
 ];
 
 // Preload
